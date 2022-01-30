@@ -1,11 +1,11 @@
-<h3>Hi! 👋<br>I'm Rono Koushique<br>
-a Web & Software Developer</h3>
+<h2>Hi! 👋<br>I'm Rono Koushique<br>
+a Web & Software Developer</h2>
 
-<h6>I build websites, write programs and scripts, design graphics and give programming lessons..<br>
+<p><h4>I build websites, write programs and scripts, design graphics and give programming lessons..<br>
     I have 4 years of tech experience, creating online contents while providing services.<br>
     I am also an Electronics and Telecommunication Engineer graduated from RUET. <br>
     Do you have a project or need a consultancy? Then <br>
-    Contact me to get in touch now!</h6>
+    Contact me to get in touch now!</h4><p>
 
 <h4> <a href="www.facebook.com/rono.koushique/">Facebook</a> • 
     <a href="https://twitter.com/RonoKoushique">Twitter</a> • 
