@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h3>Hi! 👋<br>I'm Rono Koushique<br>
 a Web & Software Developer</h3>
 
@@ -8,7 +7,7 @@ a Web & Software Developer</h3>
     Do you have a project or need a consultancy? Then <br>
     Contact me to get in touch now!</h6>
 
-<h4> <a href="www.facebook.com/rono.koushique/"><a href="#" class="fa fa-facebook"></a>Facebook</a> • 
+<h4> <a href="www.facebook.com/rono.koushique/">Facebook</a> • 
     <a href="https://twitter.com/RonoKoushique">Twitter</a> • 
     <a href="www.linkedin.com/in/koushiqur-rahman/">Linked in</a> • 
     <a href="www.instagram.com/rono_koushique/">Instagram</a></h4>
