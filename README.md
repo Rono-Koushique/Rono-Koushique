@@ -1,5 +1,5 @@
 <h2>Hi! 👋<br>I'm Rono Koushique<br>
-a Web & Software Developer</h2>
+and I'm interested in software development.</h2>
 
 <p>I build websites, write programs and scripts, design graphics and give programming lessons..<br>
     I have 4 years of tech experience, creating online contents while providing services.<br>
